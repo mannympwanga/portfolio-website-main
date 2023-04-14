@@ -1,2 +1,2 @@
 # Portfolio-Website
-Portfolio Website with html,sass,js
+Portfolio Website with html,scss,js
